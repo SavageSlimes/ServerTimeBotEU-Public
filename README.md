@@ -1,5 +1,5 @@
 # ServerTimeBotEU-Public
-This is a public version of the ST bot at Savage Slimes. It's perpetual.
+This is a public version of the ST bot at Savage Slimes. It's perpetual and won't any any new features.
 
 *Go to https://discordapp.com/developers/applications/me
 
