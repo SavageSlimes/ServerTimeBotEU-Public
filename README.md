@@ -11,7 +11,7 @@ Click Bot and then Add Bot
 
 Click reset token and then get the token it gives you and place it in the .env file. DO NOT UPLOAD THIS FILE ANYWHERE OR SHARE IT WITH ANYBODY
 
-Click OAuth2 and URL Generator, tick bot and then change nickname below
+Click OAuth2 and URL Generator, tick bot and then tick change nickname below
 
 Use the URL at the very bottom to invite it to your server
 
